@@ -1,0 +1,8 @@
+bundle/
+.temp/
+.rn_temp/
+node_modules/
+.DS_Store
+*.zip
+.idea
+package-lock.json
